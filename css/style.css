@@ -1,0 +1,153 @@
+﻿        body
+        {
+            background-image:url('Images/BackImg/back_14.jpg')
+        }
+       .div1 {
+            width:920px;
+            height:auto;
+            margin: 25px,40px,25px,40px; 
+            padding: 0px; 
+            border: solid 10px green; 
+            background-image:url('Images/BackImg/back_13.jpg'); 
+            background-size: 100% 200%;
+        }
+        .p1{
+            font-size:30pt; 
+            font-family:Arial; 
+            color:brown;
+        }
+        .p2 {
+            font-size:28pt; 
+            font-family:Cambria; 
+            color:white
+        }
+        .p3 {
+            font-size:28pt; 
+            font-family:'Segoe UI Emoji'; 
+            color:white
+        }
+        .p4 {
+            font-size:28pt; 
+            font-family:'Footlight MT'; 
+            color:white
+        }
+        .p5 {
+            font-size:28pt; 
+            font-family:Garamond; 
+            color:white
+        }
+        .block2_1 {
+            width:800px; 
+            height:155px; 
+            margin: 10px; 
+            padding: 2px; 
+            border: solid 15px red;
+        }
+        .block2_2 {
+            width: 200px; 
+            height: 120px; 
+            float: left; 
+            margin: 10px; 
+            padding: 2px; 
+            border: solid 5px blue;
+        }
+        .block2_3 {
+            width: 50px; 
+            height: 45px; 
+            margin: 5px; 
+            padding: 0px; 
+            border: solid 5px pink;
+        }
+        .block3_1 {
+            width:770px; 
+            height:100px; 
+            margin: 40px; 
+            padding: 15px,5px,15px,15px; 
+            border: solid 10px gray;
+        }
+        .block3_2 {
+            width: 180px; 
+            height: 20px; 
+            float: left; 
+            margin: 5px; 
+            padding: 20px; 
+            border: solid 5px black;
+        }
+        .block3_3 {
+            width: 120px; 
+            height: 30px; 
+            float: left; 
+            margin: 5px; 
+            padding: 2px; 
+            border: solid 5px magenta; 
+        }
+        .block4_1 {
+            width:770px; 
+            height:250px; 
+            margin: 5px; 
+            padding: 5px; 
+            border: solid 15px darkorange; 
+            background-image:url('Images/BackImg/back_9.jpg'); background-size: 100% 200%;
+        }
+        .block4_2 {
+            width: 112px; 
+            height: 200px; 
+            float:left; 
+            margin: 5px; 
+            padding: 10px; 
+            border: solid 5px GreenYellow ;
+        }
+        .block4_3 {
+            width: 570px; 
+            height: 200px; 
+            float:left; 
+            margin: 5px; 
+            padding: 10px; 
+            border: solid 5px GreenYellow ;
+        }
+        .block4_4 {
+            height: 130px; 
+            width: 540px; 
+            margin: 10px; 
+            padding: 0px; 
+            border: solid 5px OrangeRed; 
+            background-image:url('Images/BackImg/back_6.jpg')
+        }
+        .block4_5 {
+            height: 30px; 
+            width: 540px; 
+            margin: 10px; 
+            padding: 0px; 
+            border: solid 5px OrangeRed;
+        }
+        .block5_1 {
+            width:750px; 
+            height:240px; 
+            margin: 10px; 
+            padding: 40px; 
+            border: solid 30px Salmon;
+        }
+        .block5_2 {
+            width:100px; 
+            height:220px; 
+            float:left; 
+            margin: 1px; 
+            padding: 10px; 
+            border: solid 15px SpringGreen;
+        }
+        .block5_3 {
+            height: 75px; 
+            width: 70px; 
+            margin: 5px; 
+            padding: 0px; 
+            border: solid 10px SkyBlue;
+        }
+        .block5_4 {
+            width:210px; 
+            height:230px; 
+            float:left; 
+            margin: 1px; 
+            padding: 10px; 
+            border: solid 10px SpringGreen;
+        }
+        
